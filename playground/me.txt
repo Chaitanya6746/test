@@ -1,1 +1,4 @@
 
+Name: Chaitanya
+Skills: HTML, CSS, JS, React.js
+Email: chaitanya6746@gmail.com
